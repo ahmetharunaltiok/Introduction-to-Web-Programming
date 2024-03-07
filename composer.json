@@ -1,0 +1,7 @@
+{
+    "name": "1rax/introduction-to-web-programming",
+    "type": "project",
+    "require": {
+        "mikecao/flight": "^3.5"
+    }
+}
